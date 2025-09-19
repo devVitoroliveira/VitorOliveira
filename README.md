@@ -40,7 +40,7 @@ Olá! Sou um desenvolvedor Full Stack focado em construir soluções eficientes 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devVitoroliveira&theme=darkight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=devVitoroliveira&theme=darkight&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
 
 </p>
