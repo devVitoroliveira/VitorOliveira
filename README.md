@@ -2,7 +2,7 @@
 
 **`Back End Developer`** 
 
-Olá! Sou um desenvolvedor Full Stack focado em construir soluções eficientes e escaláveis.
+Olá! Sou um desenvolvedor Back End focado em construir soluções eficientes e escaláveis.
 
 
 
